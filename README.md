@@ -91,7 +91,7 @@ Text 2 ──→ [Embedding Model] ──→ Vector B
 ### **1️⃣ Context Precision**
 
 **What It Measures** - 
-How many retrieved chunks are actually relevant to the question (proportion of relevant chunks).
+How many retrieved chunks are actually relevant to the question (proportion of relevant chunks)
 
 **Internal Process**:
 ```
@@ -166,7 +166,7 @@ Calculation:
 ### **4️⃣ Answer Correctness** 
 
 **What It Measures** - 
-How semantically similar is the generated answer to the ground truth? (Requires ground truth).
+How semantically similar is the generated answer to the ground truth? (Requires ground truth)
 
 **Internal Process**:
 ```
