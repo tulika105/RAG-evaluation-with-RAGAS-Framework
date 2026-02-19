@@ -22,7 +22,7 @@ Raw Generation Output
     │ • Question/Query                        │
     │ • Generated Answer                      │
     │ • Retrieved Contexts                    │
-    │ • Ground Truth (reference)              │
+    │ • Ground Truth/reference                │
     └────────────────┬───────────────────────┘
                      ↓
          ┌──────────────────────────┐
